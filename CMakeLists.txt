@@ -9,7 +9,7 @@ include_directories( includes / utils)
 
 # Source files
 set(SOURCE
-    # src/unique_ptr.cpp
+    src/unique_ptr.cpp
 )
 
 # Add executable
