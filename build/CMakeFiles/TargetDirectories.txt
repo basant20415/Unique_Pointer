@@ -1,0 +1,3 @@
+/home/ubuntu/hazem's_course/advanced cpp/stls/build/CMakeFiles/PRINT.dir
+/home/ubuntu/hazem's_course/advanced cpp/stls/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/hazem's_course/advanced cpp/stls/build/CMakeFiles/rebuild_cache.dir
