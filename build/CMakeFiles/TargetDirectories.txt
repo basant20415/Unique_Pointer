@@ -1,0 +1,3 @@
+/home/ubuntu/unique_ptr/build/CMakeFiles/PRINT.dir
+/home/ubuntu/unique_ptr/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/unique_ptr/build/CMakeFiles/rebuild_cache.dir
